@@ -1,3 +1,4 @@
+[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_navbar_pencil%403x.png" width="80" >](https://github.com/OsmAnd-Rendering/How-to-create-a-rendering)
 # How-to-create-a-rendering
 Some information to start the adventure of creating a rendering
 
